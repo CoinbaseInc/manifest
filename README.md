@@ -1,5 +1,5 @@
 This repository is the home of the :star: **[Web App Manifest](https://w3c.github.io/manifest/)** :star: specification being worked on by
-the [Web Platform Working Group](https://www.w3.org/WebPlatform/WG/).
+the [Web Platform Working Group](https://www.w3.org/WebPlatform/WG/) :balloon:.
 
 ## Useful links
 * [The Web App Manifest specification](https://w3c.github.io/manifest/)
